@@ -1,0 +1,5 @@
+package com.rose.Mvc.web;
+
+public class MyConfig {
+
+}
